@@ -77,16 +77,10 @@ Wireframes
 <img src="https://lh3.googleusercontent.com/pw/AP1GczNbA-Uj3v3zgikUMhGT2yEVsWh-KF2TirCUCjNva1GO2eFlx7VJwzkdPk7y404AgjaBMK3TidXH-AIsp0jU774SE6fBHXFyu-bG1wZcy24FQi3W4SVverNfOhamy0W5nHTgTaiebT70YO7t-gqNVVlcy3oBIygnXN8vdsAROCfqdWxKFphVL1Nlp6-OjnkutjJ6skHDDVk_CshKXxL4EzZXQ3J7M8iEX7L_tLTffx8tLz-iTiOvNvWTgvckscOVwrx3OaMUJl6kB_natYiKXn9qp4G2a4fDeWZlpdLv7tuUjwyG1_DTB0F_x3A1P9cdeHNhtdpgNAyb8RwAONyTrOlS49kg_dUdsQDcbWlOZZ8X1D3Y9-pbGmeXKEd4EglWRm4fYmU54eK8MDf_v4hwK_CsiFV6W9MuArBUKP39tzT7UgiH82_84HdYOwQc3OfN2VFRG-Hw4IxXS3OYPLzvF24Ys5rW3iII_qqTV_3yxA7cvmn2vIsVKLJyB8Jh4AzNb6SZQdF-CcgBS54C-8YAIQgbSG5V8vEGExYN1reQvBFfLRQTrZKcIYp_k6Hpp3bA4alXngN7oM-lFoqwqXZZw-tHc47Ecj5eYuGRQx4rK01uwS6sUoCIGdhUCoGgkFNDWCV5_-mb03ZE_VYVgxsAftzzy90yPgTCdJ_LK9uocrWSNaaELdeNUMZBfiludTV7VzyCxWpXxF8CEqvDl49cJzUx_IdK9AD5CoNyPZRdoL6HW0KH26Yf4juqofoE5f5YKZDhMXCLE0SM6VhjqOd20KcT-a2atWL-cqnudjPIPgD_tHR_Cv0IhfHxQP1ErPiRvjvAhZTj71e8v4WVMZBudM4rS8CzrIB4M6zz1yotoLuEwABXkrGNAze5_mrHP1zsPKYz8NuHeTX2Lg5eXJ-8F-aD=w598-h843-s-no?authuser=0" width=600> 
 
 
-Schema
-- Implement Table View for List
-- Implement Image view for Sprites
-- Label For Pokemon Names
-- 
+Current Progress
 
-Models
-[Add table of models]
+-List with pokemon
+   -List shows sprite + name of Pokemon
+-Cleaned up UI stuff
+-Getting new viewcontroller set to segue into
 
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
