@@ -89,3 +89,6 @@ Wireframes
 - segue to new page
 - show image and description from api in second viewcontroller
 - implement scroll bar
+
+Progress Video:
+https://www.loom.com/share/f2192181200946458adaaf8afc432f87?sid=f0c06bfa-4f24-45ce-b1bc-df90b64dcb25
